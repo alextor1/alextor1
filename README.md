@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alextor1
+- 👋 Hi, I’m alextor1 (Alex)
 - 👀 I’m interested in DL visual research and applications
 - 🌱 I’m currently learning language modelling with connection to AI
 
